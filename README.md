@@ -1,0 +1,1 @@
+https://frenzies.netlify.app/
